@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Spur Stern",
+  "base_artist": "Vivid Lila",
+  "createdAt": "2026-01-03T14:54:43.154492Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Spur Stern (feat. nayuta)",
+      "artist": "Vivid Lila",
+      "has_synced": false,
+      "path": "select/pl_01_Spur_Stern_(feat._nayuta)_Vivid_Lila.txt"
+    }
+  ]
+}
